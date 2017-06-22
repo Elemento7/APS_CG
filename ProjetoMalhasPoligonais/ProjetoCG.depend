@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496857546 source:c:\users\jennifer\documents\computação gráfica\projeto\projetocg\main.c
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+
